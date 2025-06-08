@@ -1,7 +1,7 @@
 ## Hi, I'm Kyle 👨‍💻
-  👋 I'm an Information Technology student at STI College Legazpi.
-  ✨ I have a keen interest in front-end development.
-  🚀 I specialize in crafting user-friendly interfaces with tools like Vue.js and enjoy diving into full-stack challenges.
+  👋 I'm an Information Technology student at STI College Legazpi. <br/>
+  ✨ I have a keen interest in front-end development. <br/>
+  🚀 I specialize in crafting user-friendly interfaces with tools like Vue.js and enjoy diving into full-stack challenges. <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyle-ara%C3%B1a-40746436a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyle.arana97@gmail.com) 
