@@ -1,7 +1,7 @@
 ## Hi, I'm Kyle 👨‍💻
-👋 I'm an enthusiastic **aspiring Front-End Developer**, eager to apply my skills in a professional setting. <br/>
-✨ My passion lies in creating seamless user experiences with tools like **React**, **Vue.js**, and I'm always ready to tackle new **full-stack challenges**. <br/>
-🚀 I'm actively looking for roles where I can contribute to impactful projects and develop as a software engineer.
+👋 I'm an enthusiastic **Front-End Developer**, eager to apply my skills in a professional setting. <br/>
+✨ My passion lies in creating seamless user experiences using tools like **React**, **Vue.js**, and I'm always ready to tackle new **full-stack challenges**. <br/>
+🚀 I'm actively seeking roles where I can contribute to impactful projects and develop as a software engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-ara%C3%B1a-40746436a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyle.arana97@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-gray?logo=link&logoColor=white)](https://kashodev.vercel.app)
